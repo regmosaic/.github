@@ -1,6 +1,6 @@
 # RegMosaic
 
-<img src="profile/RegMosaic_MS.png" alt="RegMosaic" width="600"/>
+<img src="RegMosaic_MS.png" alt="RegMosaic" width="600"/>
 
 **Structured regulatory intelligence for modern compliance.**
 
